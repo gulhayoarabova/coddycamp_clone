@@ -131,59 +131,57 @@ function Home(props) {
               kompyuter texnologiyalari boʻyicha kurs.</p>
           </div>
         </div>
-        <div className="big_inf2">
+        <div className="big_inf1">
           <img src={root} alt="" />
           <h4>Tajribali ustozlar</h4>
-          <div className="litt2">
+          <div className="litt1">
             <p>Katta IT loyihalarda ishlash tajribasiga ega bo’lgan dasturchi
                ustozlar tomonidan darslar olib boriladi.
          CoddyCamp IT Akademiya “Sifat”ga katta e’tibor qaratadi va har bir o'quvchi bilan
             yakka tartibda shug’ullaniladi. Darslarni doimiy ravishda metodist nazorat qiladi.
-           Har bir o’quvchiga qanchalik ma’lumotlarni oson yetkazib berilishi biz uchun muhim.</p>
+                           </p>
           </div>
         </div>
         </div>
 
-        <div className="big2_inf">
-        <div className="big_inf3">
+        <div className="big1_inf">
+        <div className="big_inf1">
           <img src={tea} alt="" />
           <h4>Yordamchi o’qituvchi</h4>
-          <div className="litt3">
+          <div className="litt1">
             <p>Agarda o’quvchilar darsni o'zlashtira olishmasa, bunda muommo yo’q!
                O’quvchilarimiz uchun ikkinchi o’qituvchi xizmati mavjud! Yordamchi 
                ustoz bilan uy vazifalarini vaqtida bajarish va qoldirilgan darslarni 
                o’rganish imkoniga ega bo’lishadi.</p>
           </div>
         </div>
-        <div className="big_inf4">
+        <div className="big_inf1">
           <img src={pen} alt="" />
           <h4>Innovatsion ta’lim</h4>
-          <div className="litt4">
-            <p>IT o’rganishda darslarning interaktiv tarzda olib borilishi</p>
-               <p>juda muhim. Shuning uchun biz buni innovatsion ta’lim orqali bajaramiz.</p>
+          <div className="litt1">
+            <p>IT o’rganishda darslarning interaktiv tarzda olib borilishi muhim</p>
+              
                <h6>- Kompyuterlar</h6>
                <h6>- Televizor bilan jihozlangan xonalar</h6>
-               <h6>- Har bir dars uchun taqdimotlar</h6>
           </div>
         </div>
         </div>
 
-        <div className="big3_inf">
-        <div className="big_inf5">
+        <div className="big1_inf">
+        <div className="big_inf1">
           <img src={roll} alt="" />
           <h4>Bepul tadbirlar</h4>
-          <div className="litt5">
+          <div className="litt1">
             <p>Ta’lim olishda muhit qandayligi katta ahamiyatga ega! Buni o’quvchilarimiz
             o’zlarida his etishadi, yakshanba kungi bepul tadbirlar orqali har bir o’quvchi
             uchun haqiqiy IT muhitni yaratib beramiz.
-            Tadbir davomida o’quvchilar o’rtasida musobaqalar, IT mutaxasislaridan foydali 
-            bo’lgan masterklasslar, eng qiziqarli o’yinlar olib boriladi.</p>
+            Tadbir davomida o’quvchilar o’rtasida musobaqalar,o’yinlar olib boriladi.</p>
           </div>
         </div>
-        <div className="big_inf6">
+        <div className="big_inf1">
           <img src={say} alt="" />
           <h4>Imtihon tizimi</h4>
-          <div className="litt5">
+          <div className="litt1">
             <p>O’quvchining natijasi ota - ona uchun muhim!
                Bizda har oy o’quvchilar imtihondan o’tishadi va kurs davomida 2 marta ota-onalar 
                ishtirokidagi ochiq eshiklar kunida o’quvchilar o’z loyihalari taqdimotini o’tkazishadi.
